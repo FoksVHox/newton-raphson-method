@@ -1,0 +1,38 @@
+ INFO: [Feb 16 20:06:03.183] writing log files to disk path=atlas.log
+ INFO: [Feb 16 20:06:03.183] receiving precision flag 
+ INFO: [Feb 16 20:06:03.183] receiving max flag       
+ INFO: [Feb 16 20:06:32.402] writing log files to disk path=atlas.log
+ INFO: [Feb 16 20:06:32.402] receiving precision flag 
+ INFO: [Feb 16 20:06:32.402] receiving max flag       
+ INFO: [Feb 16 20:06:32.402] changed precision.        new=6.969e-10 old=6.969e-17
+ INFO: [Feb 16 20:20:41.278] writing log files to disk path=atlas.log
+ INFO: [Feb 16 20:20:41.278] receiving precision flag 
+ INFO: [Feb 16 20:20:41.278] receiving max flag       
+ INFO: [Feb 16 20:21:13.016] writing log files to disk path=atlas.log
+ INFO: [Feb 16 20:21:13.016] receiving precision flag 
+ INFO: [Feb 16 20:21:13.016] receiving max flag       
+ INFO: [Feb 16 20:26:08.156] writing log files to disk path=atlas.log
+ INFO: [Feb 16 20:26:08.156] receiving precision flag 
+ INFO: [Feb 16 20:26:08.156] receiving max flag       
+ INFO: [Feb 16 20:26:30.099] writing log files to disk path=atlas.log
+ INFO: [Feb 16 20:26:30.099] receiving precision flag 
+ INFO: [Feb 16 20:26:30.099] receiving max flag       
+ INFO: [Feb 16 20:26:54.312] writing log files to disk path=atlas.log
+ INFO: [Feb 16 20:26:54.312] receiving precision flag 
+ INFO: [Feb 16 20:26:54.312] receiving max flag       
+ INFO: [Feb 16 20:27:22.938] writing log files to disk path=atlas.log
+ INFO: [Feb 16 20:27:22.938] receiving precision flag 
+ INFO: [Feb 16 20:27:22.938] receiving max flag       
+ INFO: [Feb 16 20:28:26.682] writing log files to disk path=atlas.log
+ INFO: [Feb 16 20:28:26.682] receiving precision flag 
+ INFO: [Feb 16 20:28:26.682] receiving max flag       
+ INFO: [Feb 16 20:28:41.109] writing log files to disk path=atlas.log
+ INFO: [Feb 16 20:28:41.109] receiving precision flag 
+ INFO: [Feb 16 20:28:41.109] receiving max flag       
+ INFO: [Feb 16 20:28:41.109] changed precision.        new=1e-13 old=1e-19
+ INFO: [Feb 16 20:29:01.550] writing log files to disk path=atlas.log
+ INFO: [Feb 16 20:29:01.550] receiving precision flag 
+ INFO: [Feb 16 20:29:01.550] receiving max flag       
+ INFO: [Feb 16 20:30:27.258] writing log files to disk path=atlas.log
+ INFO: [Feb 16 20:30:27.258] receiving precision flag 
+ INFO: [Feb 16 20:30:27.258] receiving max flag       
